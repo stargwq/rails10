@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b6e1fdee-6362-4f27-b4c1-b120b33fa5f3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rails101.iws" />
@@ -121,8 +120,8 @@
       <file leaf-file-name="Gemfile.lock" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55064195">
-              <caret line="191" column="5" selection-start-line="191" selection-start-column="4" selection-end-line="191" selection-end-column="5" />
+            <state vertical-scroll-proportion="4.3223968">
+              <caret line="202" column="13" selection-start-line="202" selection-start-column="13" selection-end-line="202" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -170,8 +169,8 @@
         <option value="$PROJECT_DIR$/app/views/groups/edit.html.erb" />
         <option value="$PROJECT_DIR$/app/models/post.rb" />
         <option value="$PROJECT_DIR$/app/controllers/account/posts_controller.rb" />
-        <option value="$PROJECT_DIR$/Gemfile.lock" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/Gemfile.lock" />
       </list>
     </option>
   </component>
@@ -399,7 +398,13 @@
       <option name="project" value="LOCAL" />
       <updated>1477643124983</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ddd">
+      <created>1477643519325</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1477643519325</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -828,8 +833,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55064195">
-          <caret line="191" column="5" selection-start-line="191" selection-start-column="4" selection-end-line="191" selection-end-column="5" />
+        <state vertical-scroll-proportion="4.3223968">
+          <caret line="202" column="13" selection-start-line="202" selection-start-column="13" selection-end-line="202" selection-end-column="13" />
           <folding />
         </state>
       </provider>
